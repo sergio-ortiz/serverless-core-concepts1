@@ -1,7 +1,3 @@
 [build]
     publish="dist"
     functions="functions"
-
-[[redirects]]
-    from = "/"
-    to = "/.netlify/functions/hello-world"
